@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(47,88%,63%);
+}
+.main-div {
+    height: 560px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid black ;
+    border-radius: 8px;
+    padding: 22px;
+    box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 1);
+    
+}
+.whole {
+    justify-content: center;
+    display: flex;
+}
+
+#main-image {
+    height: 250px;
+    width: 350px;
+    border-radius: 8px;
+    margin: 15px;
+}
+#learn {
+    background-color: hsl(47,88%,63%);
+    border-radius: 8px;
+    border: 2px solid yellow; 
+    height: 50px;
+    width: 150px;  
+}
+#Learning {
+    text-align: center;
+}
+#main-text {
+    font-weight: 400;
+    font-family: arial;
+    color: rgb(50, 50, 50);
+}
+#boy {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.last-div {
+    display: flex;
+}
